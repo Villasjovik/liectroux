@@ -1,0 +1,9 @@
+{
+  "svgPath": "liectroux.svg",
+  "svgFilename": "liectroux.svg",
+  "brandColor": "#f2ede4",
+  "tone": "neutral",
+  "motion": "float-spin",
+  "rotateSpeed": 0.3,
+  "source": "https://www.liectroux-robotics.com/uploads/48865/logo.png"
+}
